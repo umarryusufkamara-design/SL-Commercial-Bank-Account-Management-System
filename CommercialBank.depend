@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1779537636 source:c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\main.cpp
+	"BankSystem.h"
+
+1779537636 c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\include\banksystem.h
+	<vector>
+	"Customer.h"
+	"Account.h"
+	"Transaction.h"
+
+1779537636 c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\include\customer.h
+	<string>
+	<iostream>
+
+1779537636 c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\include\account.h
+	<string>
+	<iostream>
+
+1779537636 c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\include\transaction.h
+	<string>
+	<iostream>
+
+1779537636 source:c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\src\account.cpp
+	"Account.h"
+
+1779537636 source:c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\src\customer.cpp
+	"Customer.h"
+
+1779537636 source:c:\users\emmanuel sellu\desktop\commercialbank\commercialbank\src\transaction.cpp
+	"Transaction.h"
+
